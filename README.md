@@ -67,7 +67,7 @@ git commit -m "message" - reate a point of branch, which we will push to reposit
 git push <remote> <branch>
 ```
 
-### 🎉Amazing, or repository is up to date and everything is working!🎉 Now you know how to connect local machine with gitHub and how to work with it. And i believe,that after this tutorial it might be easier to understand the GitHub base and how does it works.
+### 🎉Amazing, our repository is up to date and everything is working!🎉 Now you know how to connect local machine with gitHub and how to work with it. And i believe,that after this tutorial it might be easier to understand the GitHub base and how does it works.
 
 - **@AndriiSurname What do you think about the repository i did?** 
 - **👇Leave some message above it👇**
