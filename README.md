@@ -1,4 +1,4 @@
-# How to connect your local machie to the GitHub and create your first reposit
+# How to connect your local machine to GitHub and create your first repository
 
 ## In this repository I will answer on questions:
 
